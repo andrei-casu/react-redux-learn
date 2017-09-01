@@ -2,7 +2,8 @@
 
 My implementation based on the tutorial from <learnredux.com>
 
-//test
+//test2
+sdck
 
 A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
 
